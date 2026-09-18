@@ -1,0 +1,6 @@
+{
+  "name": "SMRITIXR - Dementia Support Platform",
+  "description": "Personalized dementia-support platform with AI companion, category-based adaptive interfaces, cognitive games, smart glasses vision assistance, and caregiver/doctor portals.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
